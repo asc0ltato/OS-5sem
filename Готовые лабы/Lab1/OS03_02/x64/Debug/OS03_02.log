@@ -1,0 +1,10 @@
+﻿  OS03_02.cpp
+C:\Users\super\Desktop\Lab1\OS03_02\OS03_02.cpp(11,22): warning C4129: "s": нераспознанная escape-последовательность символов
+C:\Users\super\Desktop\Lab1\OS03_02\OS03_02.cpp(11,22): warning C4129: "D": нераспознанная escape-последовательность символов
+C:\Users\super\Desktop\Lab1\OS03_02\OS03_02.cpp(11,22): warning C4129: "L": нераспознанная escape-последовательность символов
+C:\Users\super\Desktop\Lab1\OS03_02\OS03_02.cpp(11,22): warning C4129: "O": нераспознанная escape-последовательность символов
+C:\Users\super\Desktop\Lab1\OS03_02\OS03_02.cpp(12,22): warning C4129: "s": нераспознанная escape-последовательность символов
+C:\Users\super\Desktop\Lab1\OS03_02\OS03_02.cpp(12,22): warning C4129: "D": нераспознанная escape-последовательность символов
+C:\Users\super\Desktop\Lab1\OS03_02\OS03_02.cpp(12,22): warning C4129: "L": нераспознанная escape-последовательность символов
+C:\Users\super\Desktop\Lab1\OS03_02\OS03_02.cpp(12,22): warning C4129: "O": нераспознанная escape-последовательность символов
+  OS03_02.vcxproj -> C:\Users\super\Desktop\Lab1\x64\Debug\OS03_02.exe
