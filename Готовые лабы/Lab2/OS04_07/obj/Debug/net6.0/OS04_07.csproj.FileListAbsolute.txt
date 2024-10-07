@@ -1,0 +1,14 @@
+C:\Users\super\Desktop\Lab2\OS04_07\bin\Debug\net6.0\OS04_07.exe
+C:\Users\super\Desktop\Lab2\OS04_07\bin\Debug\net6.0\OS04_07.deps.json
+C:\Users\super\Desktop\Lab2\OS04_07\bin\Debug\net6.0\OS04_07.runtimeconfig.json
+C:\Users\super\Desktop\Lab2\OS04_07\bin\Debug\net6.0\OS04_07.dll
+C:\Users\super\Desktop\Lab2\OS04_07\bin\Debug\net6.0\OS04_07.pdb
+C:\Users\super\Desktop\Lab2\OS04_07\obj\Debug\net6.0\OS04_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\Desktop\Lab2\OS04_07\obj\Debug\net6.0\OS04_07.AssemblyInfoInputs.cache
+C:\Users\super\Desktop\Lab2\OS04_07\obj\Debug\net6.0\OS04_07.AssemblyInfo.cs
+C:\Users\super\Desktop\Lab2\OS04_07\obj\Debug\net6.0\OS04_07.csproj.CoreCompileInputs.cache
+C:\Users\super\Desktop\Lab2\OS04_07\obj\Debug\net6.0\OS04_07.dll
+C:\Users\super\Desktop\Lab2\OS04_07\obj\Debug\net6.0\refint\OS04_07.dll
+C:\Users\super\Desktop\Lab2\OS04_07\obj\Debug\net6.0\OS04_07.pdb
+C:\Users\super\Desktop\Lab2\OS04_07\obj\Debug\net6.0\OS04_07.genruntimeconfig.cache
+C:\Users\super\Desktop\Lab2\OS04_07\obj\Debug\net6.0\ref\OS04_07.dll

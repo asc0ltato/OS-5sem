@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\super\\Desktop\\Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC640D72-9D1E-46E6-8F96-F2E9472AA76D}|OS04_10\\OS04_10.csproj|c:\\users\\super\\desktop\\lab2\\os04_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC640D72-9D1E-46E6-8F96-F2E9472AA76D}|OS04_10\\OS04_10.csproj|solutionrelative:os04_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF419EC-A61E-4F18-904D-7BD6624C7E61}|OS04_09\\OS04_09.csproj|c:\\users\\super\\desktop\\lab2\\os04_09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF419EC-A61E-4F18-904D-7BD6624C7E61}|OS04_09\\OS04_09.csproj|solutionrelative:os04_09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21183EF2-1734-4108-BB0A-502D915EFFCB}|OS04_08\\OS04_08.csproj|c:\\users\\super\\desktop\\lab2\\os04_08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21183EF2-1734-4108-BB0A-502D915EFFCB}|OS04_08\\OS04_08.csproj|solutionrelative:os04_08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564BC2BE-7D4D-4491-A876-7A17CB560E31}|OS04_07\\OS04_07.csproj|c:\\users\\super\\desktop\\lab2\\os04_07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564BC2BE-7D4D-4491-A876-7A17CB560E31}|OS04_07\\OS04_07.csproj|solutionrelative:os04_07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF871E7C-C19B-42A9-87D0-5D77C90A43B6}|OS04_06\\OS04_06.csproj|c:\\users\\super\\desktop\\lab2\\os04_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF871E7C-C19B-42A9-87D0-5D77C90A43B6}|OS04_06\\OS04_06.csproj|solutionrelative:os04_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9912AF4-8B8F-4B74-8C08-03AA2851B4E6}|OS04_05\\OS04_05.csproj|c:\\users\\super\\desktop\\lab2\\os04_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9912AF4-8B8F-4B74-8C08-03AA2851B4E6}|OS04_05\\OS04_05.csproj|solutionrelative:os04_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA833C9-CDCE-4F7C-BAF8-F055396D9987}|OS04_04\\OS04_04.csproj|c:\\users\\super\\desktop\\lab2\\os04_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA833C9-CDCE-4F7C-BAF8-F055396D9987}|OS04_04\\OS04_04.csproj|solutionrelative:os04_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD614B73-26DF-4476-BA6C-BA8189DDD6BD}|OS04_03\\OS04_03.vcxproj|C:\\Users\\super\\Desktop\\Lab2\\OS04_03\\OS04_03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DD614B73-26DF-4476-BA6C-BA8189DDD6BD}|OS04_03\\OS04_03.vcxproj|solutionrelative:OS04_03\\OS04_03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984572ED-75F8-4655-BBBF-D0878DC17BF3}|OS04_02\\OS04_02.vcxproj|C:\\Users\\super\\Desktop\\Lab2\\OS04_02\\OS04_02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{984572ED-75F8-4655-BBBF-D0878DC17BF3}|OS04_02\\OS04_02.vcxproj|solutionrelative:OS04_02\\OS04_02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4141ADF7-90D2-4C04-B926-B166D064E8E3}|Lab2\\Lab2.vcxproj|C:\\Users\\super\\Desktop\\Lab2\\Lab2\\OS04_01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4141ADF7-90D2-4C04-B926-B166D064E8E3}|Lab2\\Lab2.vcxproj|solutionrelative:Lab2\\OS04_01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab2\\OS04_07\\Program.cs",
+              "RelativeDocumentMoniker": "OS04_07\\Program.cs",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab2\\OS04_07\\Program.cs",
+              "RelativeToolTip": "OS04_07\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwEoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T10:57:13.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab2\\OS04_08\\Program.cs",
+              "RelativeDocumentMoniker": "OS04_08\\Program.cs",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab2\\OS04_08\\Program.cs",
+              "RelativeToolTip": "OS04_08\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwDEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T11:43:54.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab2\\OS04_10\\Program.cs",
+              "RelativeDocumentMoniker": "OS04_10\\Program.cs",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab2\\OS04_10\\Program.cs*",
+              "RelativeToolTip": "OS04_10\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T11:50:50.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab2\\OS04_09\\Program.cs",
+              "RelativeDocumentMoniker": "OS04_09\\Program.cs",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab2\\OS04_09\\Program.cs",
+              "RelativeToolTip": "OS04_09\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T11:50:35.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab2\\OS04_06\\Program.cs",
+              "RelativeDocumentMoniker": "OS04_06\\Program.cs",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab2\\OS04_06\\Program.cs",
+              "RelativeToolTip": "OS04_06\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T00:47:10.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OS04_02.cpp",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab2\\OS04_02\\OS04_02.cpp",
+              "RelativeDocumentMoniker": "OS04_02\\OS04_02.cpp",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab2\\OS04_02\\OS04_02.cpp",
+              "RelativeToolTip": "OS04_02\\OS04_02.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-06T12:14:44.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab2\\OS04_05\\Program.cs",
+              "RelativeDocumentMoniker": "OS04_05\\Program.cs",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab2\\OS04_05\\Program.cs",
+              "RelativeToolTip": "OS04_05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T10:37:58.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab2\\OS04_04\\Program.cs",
+              "RelativeDocumentMoniker": "OS04_04\\Program.cs",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab2\\OS04_04\\Program.cs",
+              "RelativeToolTip": "OS04_04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T11:04:59.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OS04_03.cpp",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab2\\OS04_03\\OS04_03.cpp",
+              "RelativeDocumentMoniker": "OS04_03\\OS04_03.cpp",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab2\\OS04_03\\OS04_03.cpp",
+              "RelativeToolTip": "OS04_03\\OS04_03.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T22:07:56.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OS04_01.cpp",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab2\\Lab2\\OS04_01.cpp",
+              "RelativeDocumentMoniker": "Lab2\\OS04_01.cpp",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab2\\Lab2\\OS04_01.cpp",
+              "RelativeToolTip": "Lab2\\OS04_01.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-06T12:14:43.078Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
