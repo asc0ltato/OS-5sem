@@ -1,0 +1,14 @@
+C:\Users\super\Desktop\Lab3\OS05_02\bin\Debug\net6.0\OS05_02.exe
+C:\Users\super\Desktop\Lab3\OS05_02\bin\Debug\net6.0\OS05_02.deps.json
+C:\Users\super\Desktop\Lab3\OS05_02\bin\Debug\net6.0\OS05_02.runtimeconfig.json
+C:\Users\super\Desktop\Lab3\OS05_02\bin\Debug\net6.0\OS05_02.dll
+C:\Users\super\Desktop\Lab3\OS05_02\bin\Debug\net6.0\OS05_02.pdb
+C:\Users\super\Desktop\Lab3\OS05_02\obj\Debug\net6.0\OS05_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\Desktop\Lab3\OS05_02\obj\Debug\net6.0\OS05_02.AssemblyInfoInputs.cache
+C:\Users\super\Desktop\Lab3\OS05_02\obj\Debug\net6.0\OS05_02.AssemblyInfo.cs
+C:\Users\super\Desktop\Lab3\OS05_02\obj\Debug\net6.0\OS05_02.csproj.CoreCompileInputs.cache
+C:\Users\super\Desktop\Lab3\OS05_02\obj\Debug\net6.0\OS05_02.dll
+C:\Users\super\Desktop\Lab3\OS05_02\obj\Debug\net6.0\refint\OS05_02.dll
+C:\Users\super\Desktop\Lab3\OS05_02\obj\Debug\net6.0\OS05_02.pdb
+C:\Users\super\Desktop\Lab3\OS05_02\obj\Debug\net6.0\OS05_02.genruntimeconfig.cache
+C:\Users\super\Desktop\Lab3\OS05_02\obj\Debug\net6.0\ref\OS05_02.dll

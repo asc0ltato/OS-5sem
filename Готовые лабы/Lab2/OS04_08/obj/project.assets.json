@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\super\\Desktop\\Lab2\\OS04_08\\OS04_08.csproj",
+      "projectUniqueName": "C:\\Users\\super\\Desktop\\ОС\\Готовые лабы\\Lab2\\OS04_08\\OS04_08.csproj",
       "projectName": "OS04_08",
-      "projectPath": "C:\\Users\\super\\Desktop\\Lab2\\OS04_08\\OS04_08.csproj",
+      "projectPath": "C:\\Users\\super\\Desktop\\ОС\\Готовые лабы\\Lab2\\OS04_08\\OS04_08.csproj",
       "packagesPath": "C:\\Users\\super\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\super\\Desktop\\Lab2\\OS04_08\\obj\\",
+      "outputPath": "C:\\Users\\super\\Desktop\\ОС\\Готовые лабы\\Lab2\\OS04_08\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\super\\AppData\\Roaming\\NuGet\\NuGet.Config",

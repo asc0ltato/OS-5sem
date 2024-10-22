@@ -12,3 +12,18 @@ C:\Users\super\Desktop\Lab2\OS04_04\obj\Debug\net6.0\refint\OS04_04.dll
 C:\Users\super\Desktop\Lab2\OS04_04\obj\Debug\net6.0\OS04_04.pdb
 C:\Users\super\Desktop\Lab2\OS04_04\obj\Debug\net6.0\OS04_04.genruntimeconfig.cache
 C:\Users\super\Desktop\Lab2\OS04_04\obj\Debug\net6.0\ref\OS04_04.dll
+C:\Users\super\Desktop\ОС\Готовые лабы\Lab2\OS04_04\bin\Debug\net6.0\OS04_04.exe
+C:\Users\super\Desktop\ОС\Готовые лабы\Lab2\OS04_04\bin\Debug\net6.0\OS04_04.deps.json
+C:\Users\super\Desktop\ОС\Готовые лабы\Lab2\OS04_04\bin\Debug\net6.0\OS04_04.runtimeconfig.json
+C:\Users\super\Desktop\ОС\Готовые лабы\Lab2\OS04_04\bin\Debug\net6.0\OS04_04.dll
+C:\Users\super\Desktop\ОС\Готовые лабы\Lab2\OS04_04\bin\Debug\net6.0\OS04_04.pdb
+C:\Users\super\Desktop\ОС\Готовые лабы\Lab2\OS04_04\obj\Debug\net6.0\OS04_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\Desktop\ОС\Готовые лабы\Lab2\OS04_04\obj\Debug\net6.0\OS04_04.AssemblyInfoInputs.cache
+C:\Users\super\Desktop\ОС\Готовые лабы\Lab2\OS04_04\obj\Debug\net6.0\OS04_04.AssemblyInfo.cs
+C:\Users\super\Desktop\ОС\Готовые лабы\Lab2\OS04_04\obj\Debug\net6.0\OS04_04.csproj.CoreCompileInputs.cache
+C:\Users\super\Desktop\ОС\Готовые лабы\Lab2\OS04_04\obj\Debug\net6.0\OS04_04.sourcelink.json
+C:\Users\super\Desktop\ОС\Готовые лабы\Lab2\OS04_04\obj\Debug\net6.0\OS04_04.dll
+C:\Users\super\Desktop\ОС\Готовые лабы\Lab2\OS04_04\obj\Debug\net6.0\refint\OS04_04.dll
+C:\Users\super\Desktop\ОС\Готовые лабы\Lab2\OS04_04\obj\Debug\net6.0\OS04_04.pdb
+C:\Users\super\Desktop\ОС\Готовые лабы\Lab2\OS04_04\obj\Debug\net6.0\OS04_04.genruntimeconfig.cache
+C:\Users\super\Desktop\ОС\Готовые лабы\Lab2\OS04_04\obj\Debug\net6.0\ref\OS04_04.dll

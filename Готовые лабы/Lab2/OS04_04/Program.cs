@@ -26,7 +26,7 @@
         var t1a = new Thread(ThreadWithParam);
         var t1b = new Thread(ThreadWithParam);
         t1.IsBackground = false; // false для п.11
-        t1a.IsBackground = false; // false для п.12
+        t1a.IsBackground = true; // false для п.12
         t1b.IsBackground = true;
         t1.Start();
         t1a.Start("Света"); // Имя

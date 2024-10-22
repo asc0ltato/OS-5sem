@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\super\\Desktop\\Lab2\\OS04_05\\OS04_05.csproj": {}
+    "C:\\Users\\super\\Desktop\\ОС\\Готовые лабы\\Lab2\\OS04_05\\OS04_05.csproj": {}
   },
   "projects": {
-    "C:\\Users\\super\\Desktop\\Lab2\\OS04_05\\OS04_05.csproj": {
+    "C:\\Users\\super\\Desktop\\ОС\\Готовые лабы\\Lab2\\OS04_05\\OS04_05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\super\\Desktop\\Lab2\\OS04_05\\OS04_05.csproj",
+        "projectUniqueName": "C:\\Users\\super\\Desktop\\ОС\\Готовые лабы\\Lab2\\OS04_05\\OS04_05.csproj",
         "projectName": "OS04_05",
-        "projectPath": "C:\\Users\\super\\Desktop\\Lab2\\OS04_05\\OS04_05.csproj",
+        "projectPath": "C:\\Users\\super\\Desktop\\ОС\\Готовые лабы\\Lab2\\OS04_05\\OS04_05.csproj",
         "packagesPath": "C:\\Users\\super\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\super\\Desktop\\Lab2\\OS04_05\\obj\\",
+        "outputPath": "C:\\Users\\super\\Desktop\\ОС\\Готовые лабы\\Lab2\\OS04_05\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\super\\AppData\\Roaming\\NuGet\\NuGet.Config",
