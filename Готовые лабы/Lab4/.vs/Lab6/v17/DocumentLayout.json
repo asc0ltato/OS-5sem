@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\super\\Desktop\\\u041E\u0421\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\Lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{545A02E9-3449-43BD-9D8B-86B0548D6DCB}|OS06_05\\OS06_05.vcxproj|C:\\Users\\super\\Desktop\\\u041E\u0421\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\Lab4\\OS06_05\\OS06_05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{545A02E9-3449-43BD-9D8B-86B0548D6DCB}|OS06_05\\OS06_05.vcxproj|solutionrelative:OS06_05\\OS06_05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155B20A3-21A0-426F-9581-EC90FA0532AD}|OS06_05A\\OS06_05A.vcxproj|C:\\Users\\super\\Desktop\\\u041E\u0421\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\Lab4\\OS06_05A\\OS06_05A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{155B20A3-21A0-426F-9581-EC90FA0532AD}|OS06_05A\\OS06_05A.vcxproj|solutionrelative:OS06_05A\\OS06_05A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CC9787-4E3B-42B2-9B4E-DCDADE8935CB}|OS06_04\\OS06_04.vcxproj|C:\\Users\\super\\Desktop\\\u041E\u0421\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\Lab4\\OS06_04\\OS06_04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74CC9787-4E3B-42B2-9B4E-DCDADE8935CB}|OS06_04\\OS06_04.vcxproj|solutionrelative:OS06_04\\OS06_04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73ACD94-383D-4D99-B571-A3F15EBBD4E6}|OS06_04A\\OS06_04A.vcxproj|C:\\Users\\super\\Desktop\\\u041E\u0421\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\Lab4\\OS06_04A\\OS06_04A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F73ACD94-383D-4D99-B571-A3F15EBBD4E6}|OS06_04A\\OS06_04A.vcxproj|solutionrelative:OS06_04A\\OS06_04A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445A1FD8-327E-4FF3-8427-38482D24ADB3}|OS06_03\\OS06_03.vcxproj|C:\\Users\\super\\Desktop\\\u041E\u0421\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\Lab4\\OS06_03\\OS06_03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{445A1FD8-327E-4FF3-8427-38482D24ADB3}|OS06_03\\OS06_03.vcxproj|solutionrelative:OS06_03\\OS06_03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB1CB81-46D5-4380-9200-80DE07CAD11E}|OS06_03A\\OS06_03A.vcxproj|C:\\Users\\super\\Desktop\\\u041E\u0421\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\Lab4\\OS06_03A\\OS06_03A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4BB1CB81-46D5-4380-9200-80DE07CAD11E}|OS06_03A\\OS06_03A.vcxproj|solutionrelative:OS06_03A\\OS06_03A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FD1E22-9F78-4C31-BCFC-0311DA53AF3B}|OS06_02\\OS06_02.vcxproj|C:\\Users\\super\\Desktop\\\u041E\u0421\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\Lab4\\OS06_02\\OS06_02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{28FD1E22-9F78-4C31-BCFC-0311DA53AF3B}|OS06_02\\OS06_02.vcxproj|solutionrelative:OS06_02\\OS06_02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB09B0C-E60A-4FD6-A2E8-3D25B952188B}|Lab6\\Lab6.vcxproj|C:\\Users\\super\\Desktop\\\u041E\u0421\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\Lab4\\Lab6\\Lab6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CFB09B0C-E60A-4FD6-A2E8-3D25B952188B}|Lab6\\Lab6.vcxproj|solutionrelative:Lab6\\Lab6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FAAD77D-520E-457D-9AB4-6CB0C97B948F}|OS06_05B\\OS06_05B.vcxproj|C:\\Users\\super\\Desktop\\\u041E\u0421\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\Lab4\\OS06_05B\\OS06_05B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8FAAD77D-520E-457D-9AB4-6CB0C97B948F}|OS06_05B\\OS06_05B.vcxproj|solutionrelative:OS06_05B\\OS06_05B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C72774-C139-4E62-920A-E6FD8227464D}|OS06_04B\\OS06_04B.vcxproj|C:\\Users\\super\\Desktop\\\u041E\u0421\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\Lab4\\OS06_04B\\OS06_04B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1C72774-C139-4E62-920A-E6FD8227464D}|OS06_04B\\OS06_04B.vcxproj|solutionrelative:OS06_04B\\OS06_04B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D93EC62-6DC0-43CA-8FED-DA440840F188}|OS06_03B\\OS06_03B.vcxproj|C:\\Users\\super\\Desktop\\\u041E\u0421\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\Lab4\\OS06_03B\\OS06_03B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D93EC62-6DC0-43CA-8FED-DA440840F188}|OS06_03B\\OS06_03B.vcxproj|solutionrelative:OS06_03B\\OS06_03B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Lab6.cpp",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\\u041E\u0421\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\Lab4\\Lab6\\Lab6.cpp",
+              "RelativeDocumentMoniker": "Lab6\\Lab6.cpp",
+              "ToolTip": "C:\\Users\\super\\Desktop\\\u041E\u0421\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\Lab4\\Lab6\\Lab6.cpp",
+              "RelativeToolTip": "Lab6\\Lab6.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-05T05:46:42.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OS06_03.cpp",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\\u041E\u0421\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\Lab4\\OS06_03\\OS06_03.cpp",
+              "RelativeDocumentMoniker": "OS06_03\\OS06_03.cpp",
+              "ToolTip": "C:\\Users\\super\\Desktop\\\u041E\u0421\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\Lab4\\OS06_03\\OS06_03.cpp",
+              "RelativeToolTip": "OS06_03\\OS06_03.cpp",
+              "ViewState": "AgIAABIAAAAANDMzMzPrvxUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-04T19:12:16.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OS06_03A.cpp",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\\u041E\u0421\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\Lab4\\OS06_03A\\OS06_03A.cpp",
+              "RelativeDocumentMoniker": "OS06_03A\\OS06_03A.cpp",
+              "ToolTip": "C:\\Users\\super\\Desktop\\\u041E\u0421\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\Lab4\\OS06_03A\\OS06_03A.cpp",
+              "RelativeToolTip": "OS06_03A\\OS06_03A.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-04T19:12:41.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OS06_02.cpp",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\\u041E\u0421\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\Lab4\\OS06_02\\OS06_02.cpp",
+              "RelativeDocumentMoniker": "OS06_02\\OS06_02.cpp",
+              "ToolTip": "C:\\Users\\super\\Desktop\\\u041E\u0421\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\Lab4\\OS06_02\\OS06_02.cpp",
+              "RelativeToolTip": "OS06_02\\OS06_02.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-04T19:11:50.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OS06_03B.cpp",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\\u041E\u0421\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\Lab4\\OS06_03B\\OS06_03B.cpp",
+              "RelativeDocumentMoniker": "OS06_03B\\OS06_03B.cpp",
+              "ToolTip": "C:\\Users\\super\\Desktop\\\u041E\u0421\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\Lab4\\OS06_03B\\OS06_03B.cpp",
+              "RelativeToolTip": "OS06_03B\\OS06_03B.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-04T19:13:07.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OS06_05.cpp",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\\u041E\u0421\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\Lab4\\OS06_05\\OS06_05.cpp",
+              "RelativeDocumentMoniker": "OS06_05\\OS06_05.cpp",
+              "ToolTip": "C:\\Users\\super\\Desktop\\\u041E\u0421\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\Lab4\\OS06_05\\OS06_05.cpp",
+              "RelativeToolTip": "OS06_05\\OS06_05.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-04T19:15:06.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OS06_04A.cpp",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\\u041E\u0421\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\Lab4\\OS06_04A\\OS06_04A.cpp",
+              "RelativeDocumentMoniker": "OS06_04A\\OS06_04A.cpp",
+              "ToolTip": "C:\\Users\\super\\Desktop\\\u041E\u0421\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\Lab4\\OS06_04A\\OS06_04A.cpp",
+              "RelativeToolTip": "OS06_04A\\OS06_04A.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-04T19:14:07.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OS06_04.cpp",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\\u041E\u0421\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\Lab4\\OS06_04\\OS06_04.cpp",
+              "RelativeDocumentMoniker": "OS06_04\\OS06_04.cpp",
+              "ToolTip": "C:\\Users\\super\\Desktop\\\u041E\u0421\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\Lab4\\OS06_04\\OS06_04.cpp",
+              "RelativeToolTip": "OS06_04\\OS06_04.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-04T19:13:28.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OS06_05A.cpp",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\\u041E\u0421\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\Lab4\\OS06_05A\\OS06_05A.cpp",
+              "RelativeDocumentMoniker": "OS06_05A\\OS06_05A.cpp",
+              "ToolTip": "C:\\Users\\super\\Desktop\\\u041E\u0421\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\Lab4\\OS06_05A\\OS06_05A.cpp",
+              "RelativeToolTip": "OS06_05A\\OS06_05A.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-04T19:15:33.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OS06_05B.cpp",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\\u041E\u0421\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\Lab4\\OS06_05B\\OS06_05B.cpp",
+              "RelativeDocumentMoniker": "OS06_05B\\OS06_05B.cpp",
+              "ToolTip": "C:\\Users\\super\\Desktop\\\u041E\u0421\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\Lab4\\OS06_05B\\OS06_05B.cpp",
+              "RelativeToolTip": "OS06_05B\\OS06_05B.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-04T19:16:01.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OS06_04B.cpp",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\\u041E\u0421\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\Lab4\\OS06_04B\\OS06_04B.cpp",
+              "RelativeDocumentMoniker": "OS06_04B\\OS06_04B.cpp",
+              "ToolTip": "C:\\Users\\super\\Desktop\\\u041E\u0421\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\Lab4\\OS06_04B\\OS06_04B.cpp",
+              "RelativeToolTip": "OS06_04B\\OS06_04B.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-04T19:14:25.751Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Lab6.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Lab6.cpp
+C:\Users\super\Desktop\ОС\Готовые лабы\Lab4\Lab6\Lab6.cpp(12,18): warning C4409: недопустимый размер инструкции
+C:\Users\super\Desktop\ОС\Готовые лабы\Lab4\Lab6\Lab6.cpp(23,14): warning C4409: недопустимый размер инструкции
+  Lab6.vcxproj -> C:\Users\super\Desktop\ОС\Готовые лабы\Lab4\Debug\OS06_01.exe

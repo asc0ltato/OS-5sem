@@ -1,0 +1,16 @@
+﻿  Lab6.cpp
+C:\Users\super\Desktop\OS06_01\Lab6\Lab6.cpp(18,2): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\super\Desktop\OS06_01\Lab6\Lab6.cpp(21,3): error C2065: lock: необъявленный идентификатор
+C:\Users\super\Desktop\OS06_01\Lab6\Lab6.cpp(21,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "bts"
+C:\Users\super\Desktop\OS06_01\Lab6\Lab6.cpp(21,8): error C2065: bts: необъявленный идентификатор
+C:\Users\super\Desktop\OS06_01\Lab6\Lab6.cpp(21,12): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "check"
+C:\Users\super\Desktop\OS06_01\Lab6\Lab6.cpp(22,3): error C2065: jc: необъявленный идентификатор
+C:\Users\super\Desktop\OS06_01\Lab6\Lab6.cpp(22,6): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "CriticalSection"
+C:\Users\super\Desktop\OS06_01\Lab6\Lab6.cpp(22,6): error C2065: CriticalSection: необъявленный идентификатор
+C:\Users\super\Desktop\OS06_01\Lab6\Lab6.cpp(23,2): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\super\Desktop\OS06_01\Lab6\Lab6.cpp(28,2): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\super\Desktop\OS06_01\Lab6\Lab6.cpp(28,7): error C2065: lock: необъявленный идентификатор
+C:\Users\super\Desktop\OS06_01\Lab6\Lab6.cpp(28,12): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "btr"
+C:\Users\super\Desktop\OS06_01\Lab6\Lab6.cpp(28,12): error C2065: btr: необъявленный идентификатор
+C:\Users\super\Desktop\OS06_01\Lab6\Lab6.cpp(28,16): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "check"
+C:\Users\super\Desktop\OS06_01\Lab6\Lab6.cpp(29,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
