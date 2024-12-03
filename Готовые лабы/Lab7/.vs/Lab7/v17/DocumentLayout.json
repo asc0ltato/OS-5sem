@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\super\\Desktop\\Lab7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D47D9D2B-EF7B-4972-85E3-44DDF3C4B23C}|OS09_04\\OS09_04.vcxproj|C:\\Users\\super\\Desktop\\Lab7\\OS09_04\\OS09_04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D47D9D2B-EF7B-4972-85E3-44DDF3C4B23C}|OS09_04\\OS09_04.vcxproj|solutionrelative:OS09_04\\OS09_04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7682F8A1-F685-4620-B355-178CC803539B}|OS09_03\\OS09_03.vcxproj|C:\\Users\\super\\Desktop\\Lab7\\OS09_03\\OS09_03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7682F8A1-F685-4620-B355-178CC803539B}|OS09_03\\OS09_03.vcxproj|solutionrelative:OS09_03\\OS09_03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OS09_03.cpp",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab7\\OS09_03\\OS09_03.cpp",
+              "RelativeDocumentMoniker": "OS09_03\\OS09_03.cpp",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab7\\OS09_03\\OS09_03.cpp",
+              "RelativeToolTip": "OS09_03\\OS09_03.cpp",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFAAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-03T00:15:24.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OS09_04.cpp",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Lab7\\OS09_04\\OS09_04.cpp",
+              "RelativeDocumentMoniker": "OS09_04\\OS09_04.cpp",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Lab7\\OS09_04\\OS09_04.cpp",
+              "RelativeToolTip": "OS09_04\\OS09_04.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-02T15:54:57.537Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
